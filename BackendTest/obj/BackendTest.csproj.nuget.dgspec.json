@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\WINDOWS 10 PRO\\source\\repos\\BGU-SE-Intro\\2022-2023-2023-2024-21\\BackendTest\\BackendTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\WINDOWS 10 PRO\\source\\repos\\BGU-SE-Intro\\2022-2023-2023-2024-21\\BackendTest\\BackendTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\WINDOWS 10 PRO\\source\\repos\\BGU-SE-Intro\\2022-2023-2023-2024-21\\BackendTest\\BackendTest.csproj",
+        "projectName": "BackendTest",
+        "projectPath": "C:\\Users\\WINDOWS 10 PRO\\source\\repos\\BGU-SE-Intro\\2022-2023-2023-2024-21\\BackendTest\\BackendTest.csproj",
+        "packagesPath": "C:\\Users\\WINDOWS 10 PRO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WINDOWS 10 PRO\\source\\repos\\BGU-SE-Intro\\2022-2023-2023-2024-21\\BackendTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\WINDOWS 10 PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\WINDOWS 10 PRO\\source\\repos\\BGU-SE-Intro\\2022-2023-2023-2024-21\\Backend\\Backend.csproj": {
+                "projectPath": "C:\\Users\\WINDOWS 10 PRO\\source\\repos\\BGU-SE-Intro\\2022-2023-2023-2024-21\\Backend\\Backend.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\WINDOWS 10 PRO\\source\\repos\\BGU-SE-Intro\\2022-2023-2023-2024-21\\Backend\\Backend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\WINDOWS 10 PRO\\source\\repos\\BGU-SE-Intro\\2022-2023-2023-2024-21\\Backend\\Backend.csproj",
+        "projectName": "IntroSE.Kanban.Backend",
+        "projectPath": "C:\\Users\\WINDOWS 10 PRO\\source\\repos\\BGU-SE-Intro\\2022-2023-2023-2024-21\\Backend\\Backend.csproj",
+        "packagesPath": "C:\\Users\\WINDOWS 10 PRO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WINDOWS 10 PRO\\source\\repos\\BGU-SE-Intro\\2022-2023-2023-2024-21\\Backend\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\WINDOWS 10 PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows7.0",
+          "dependencies": {
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.117, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

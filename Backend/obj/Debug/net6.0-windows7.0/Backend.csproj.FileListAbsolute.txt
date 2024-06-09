@@ -1,0 +1,16 @@
+C:\Users\WINDOWS 10 PRO\source\repos\BGU-SE-Intro\2022-2023-2023-2024-21\Backend\bin\Debug\net6.0-windows7.0\kanban.db
+C:\Users\WINDOWS 10 PRO\source\repos\BGU-SE-Intro\2022-2023-2023-2024-21\Backend\bin\Debug\net6.0-windows7.0\IntroSE.Kanban.Backend.deps.json
+C:\Users\WINDOWS 10 PRO\source\repos\BGU-SE-Intro\2022-2023-2023-2024-21\Backend\bin\Debug\net6.0-windows7.0\IntroSE.Kanban.Backend.runtimeconfig.json
+C:\Users\WINDOWS 10 PRO\source\repos\BGU-SE-Intro\2022-2023-2023-2024-21\Backend\bin\Debug\net6.0-windows7.0\IntroSE.Kanban.Backend.dll
+C:\Users\WINDOWS 10 PRO\source\repos\BGU-SE-Intro\2022-2023-2023-2024-21\Backend\bin\Debug\net6.0-windows7.0\IntroSE.Kanban.Backend.pdb
+C:\Users\WINDOWS 10 PRO\source\repos\BGU-SE-Intro\2022-2023-2023-2024-21\Backend\obj\Debug\net6.0-windows7.0\Backend.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10 PRO\source\repos\BGU-SE-Intro\2022-2023-2023-2024-21\Backend\obj\Debug\net6.0-windows7.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10 PRO\source\repos\BGU-SE-Intro\2022-2023-2023-2024-21\Backend\obj\Debug\net6.0-windows7.0\Backend.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10 PRO\source\repos\BGU-SE-Intro\2022-2023-2023-2024-21\Backend\obj\Debug\net6.0-windows7.0\Backend.AssemblyInfo.cs
+C:\Users\WINDOWS 10 PRO\source\repos\BGU-SE-Intro\2022-2023-2023-2024-21\Backend\obj\Debug\net6.0-windows7.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10 PRO\source\repos\BGU-SE-Intro\2022-2023-2023-2024-21\Backend\obj\Debug\net6.0-windows7.0\Backend.sourcelink.json
+C:\Users\WINDOWS 10 PRO\source\repos\BGU-SE-Intro\2022-2023-2023-2024-21\Backend\obj\Debug\net6.0-windows7.0\IntroSE.Kanban.Backend.dll
+C:\Users\WINDOWS 10 PRO\source\repos\BGU-SE-Intro\2022-2023-2023-2024-21\Backend\obj\Debug\net6.0-windows7.0\refint\IntroSE.Kanban.Backend.dll
+C:\Users\WINDOWS 10 PRO\source\repos\BGU-SE-Intro\2022-2023-2023-2024-21\Backend\obj\Debug\net6.0-windows7.0\IntroSE.Kanban.Backend.pdb
+C:\Users\WINDOWS 10 PRO\source\repos\BGU-SE-Intro\2022-2023-2023-2024-21\Backend\obj\Debug\net6.0-windows7.0\Backend.genruntimeconfig.cache
+C:\Users\WINDOWS 10 PRO\source\repos\BGU-SE-Intro\2022-2023-2023-2024-21\Backend\obj\Debug\net6.0-windows7.0\ref\IntroSE.Kanban.Backend.dll
