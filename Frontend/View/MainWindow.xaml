@@ -1,0 +1,21 @@
+﻿<Window x:Class="Frontend.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Frontend"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="10">
+        <Label Content="Username:&#xD;&#xA;" HorizontalAlignment="Left" Height="39" Margin="21,126,0,0" VerticalAlignment="Top" Width="107" Background="White" HorizontalContentAlignment="Left" FontWeight="Bold" FontSize="14" FontStyle="Normal" Foreground="LightBlue"/>
+        <Label Content="Password:&#xD;&#xA;" HorizontalAlignment="Left" Height="33" Margin="21,170,0,0" VerticalAlignment="Top" Width="107" FontWeight="Bold" FontSize="14" Foreground="LightBlue"/>
+        <Label Content="Kanban Board" HorizontalAlignment="Left" Height="35" Margin="74,40,0,0" VerticalAlignment="Top" Width="180" FontSize="18" FontWeight="Bold" FontStyle="Italic" HorizontalContentAlignment="Center" Foreground="LightBlue"/>
+        <TextBox Text ="{Binding Path=Username, Mode=OneWayToSource}" HorizontalAlignment="Left" Height="23" Margin="128,134,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="161" TextChanged="Usernamebox"/>
+        <Button Content="Login" HorizontalAlignment="Left" Height="24" Margin="128,239,0,0" VerticalAlignment="Top" Width="88" FontWeight="Bold" Click="Login_Click" Background="White" Foreground="LightBlue"/>
+        <Button Content="Register" HorizontalAlignment="Left" Height="29" Margin="128,336,0,0" VerticalAlignment="Top" Width="88" FontWeight="Bold" Background="White" FontStyle="Normal" Click="Register_Click" Foreground="LightBlue"/>
+        <Label Content="Don't have an account?" HorizontalAlignment="Left" Height="29" Margin="88,288,0,0" VerticalAlignment="Top" Width="168" IsEnabled="False" FontSize="14" FontWeight="Bold"/>
+        <Label Content="{Binding Path=Message, Mode=OneWay}" Foreground="Red" HorizontalAlignment="Center" Height="27" Margin="0,397,0,0" VerticalAlignment="Top" Width="319" HorizontalContentAlignment="Center"/>
+        <TextBox Text="{Binding Path=Password, Mode=OneWayToSource}" HorizontalAlignment="Left" Height="24" Margin="128,174,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="161" TextChanged="Passbox"/>
+
+    </Grid>
+</Window>
